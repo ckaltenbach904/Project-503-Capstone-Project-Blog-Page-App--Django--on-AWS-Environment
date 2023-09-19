@@ -111,7 +111,7 @@ Templates       : Free Tier
 Settings        : 
     - DB instance identifier : aws-capstone-rds
     - Master username        : admin
-    - Password               : Clarus1234 
+    - Password               : Clarusec1234 
 DB Instance Class            : Burstable classes (includes t classes) ---> db.t2.micro
 Storage                      : 20 GB and enable autoscaling(up to 40GB)
 Connectivity:
